@@ -1,70 +1,38 @@
-###################
-What is CodeIgniter
-###################
+# Tampilan Website
+![alt text](https://github.com/Alfian29/Perpustakaan/blob/master/screenshoots/1.png)
 
-CodeIgniter is an Application Development Framework - a toolkit - for people
-who build web sites using PHP. Its goal is to enable you to develop projects
-much faster than you could if you were writing code from scratch, by providing
-a rich set of libraries for commonly needed tasks, as well as a simple
-interface and logical structure to access these libraries. CodeIgniter lets
-you creatively focus on your project by minimizing the amount of code needed
-for a given task.
+![alt text](https://github.com/Alfian29/Perpustakaan/blob/master/screenshoots/13.png)
 
-*******************
-Release Information
-*******************
+![alt text](https://github.com/Alfian29/Perpustakaan/blob/master/screenshoots/19.png)
 
-This repo contains in-development code for future releases. To download the
-latest stable release please visit the `CodeIgniter Downloads
-<https://codeigniter.com/download>`_ page.
+![alt text](https://github.com/Alfian29/Perpustakaan/blob/master/screenshoots/2.png)
 
-**************************
-Changelog and New Features
-**************************
+![alt text](https://github.com/Alfian29/Perpustakaan/blob/master/screenshoots/21.png)
 
-You can find a list of all changes for each release in the `user
-guide change log <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/changelog.rst>`_.
+![alt text](https://github.com/Alfian29/Perpustakaan/blob/master/screenshoots/20.png)
 
-*******************
-Server Requirements
-*******************
+![alt text](https://github.com/Alfian29/Perpustakaan/blob/master/screenshoots/22.png)
 
-PHP version 5.6 or newer is recommended.
+![alt text](https://github.com/Alfian29/Perpustakaan/blob/master/screenshoots/29.png)
 
-It should work on 5.3.7 as well, but we strongly advise you NOT to run
-such old versions of PHP, because of potential security and performance
-issues, as well as missing features.
+![alt text](https://github.com/Alfian29/Perpustakaan/blob/master/screenshoots/30.png)
 
-************
-Installation
-************
+![alt text](https://github.com/Alfian29/Perpustakaan/blob/master/screenshoots/31.png)
 
-Please see the `installation section <https://codeigniter.com/user_guide/installation/index.html>`_
-of the CodeIgniter User Guide.
+![alt text](https://github.com/Alfian29/Perpustakaan/blob/master/screenshoots/32.png)
 
-*******
-License
-*******
+![alt text](https://github.com/Alfian29/Perpustakaan/blob/master/screenshoots/33.png)
 
-Please see the `license
-agreement <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/license.rst>`_.
+![alt text](https://github.com/Alfian29/Perpustakaan/blob/master/screenshoots/34.png)
 
-*********
-Resources
-*********
+![alt text](https://github.com/Alfian29/Perpustakaan/blob/master/screenshoots/35.png)
 
--  `User Guide <https://codeigniter.com/docs>`_
--  `Language File Translations <https://github.com/bcit-ci/codeigniter3-translations>`_
--  `Community Forums <http://forum.codeigniter.com/>`_
--  `Community Wiki <https://github.com/bcit-ci/CodeIgniter/wiki>`_
--  `Community Slack Channel <https://codeigniterchat.slack.com>`_
+![alt text](https://github.com/Alfian29/Perpustakaan/blob/master/screenshoots/36.png)
 
-Report security issues to our `Security Panel <mailto:security@codeigniter.com>`_
-or via our `page on HackerOne <https://hackerone.com/codeigniter>`_, thank you.
+![alt text](https://github.com/Alfian29/Perpustakaan/blob/master/screenshoots/4.png)
 
-***************
-Acknowledgement
-***************
+![alt text](https://github.com/Alfian29/Perpustakaan/blob/master/screenshoots/6.png)
 
-The CodeIgniter team would like to thank EllisLab, all the
-contributors to the CodeIgniter project and you, the CodeIgniter user.
+![alt text](https://github.com/Alfian29/Perpustakaan/blob/master/screenshoots/8.png)
+
+![alt text](https://github.com/Alfian29/Perpustakaan/blob/master/screenshoots/Login.png)
